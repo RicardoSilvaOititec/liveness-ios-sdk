@@ -30,9 +30,17 @@ Para adicionar o SDK manualmente no seu projeto, siga estas [instruções](Docum
 
 ![Instalação 4](Documentation/Images/installation_4.png)
 
-### Liveness - Prova de Vida
+### Liveness FaceCaptcha
 
-As instruções de uso e integração do FaceCaptcha podem ser acessadas [neste link](Documentation/FaceCaptcha-Usage.md).
+As instruções de uso e integração do Liveness FaceCaptcha podem ser acessadas [neste link](Documentation/FaceCaptcha-Usage.md).
+
+
+
+### Liveness 3D
+
+As instruções de uso e integração do Liveness 3D podem ser acessadas neste link.
+
+
 
 ### Documentoscopia
 
